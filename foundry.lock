@@ -1,0 +1,38 @@
+{
+  "lib/base64": {
+    "tag": {
+      "name": "v1.1.0",
+      "rev": "dcbf852ba545b3d15de0ac0ef88dce934c090c8e"
+    }
+  },
+  "lib/forge-std": {
+    "tag": {
+      "name": "v1.15.0",
+      "rev": "0844d7e1fc5e60d77b68e469bff60265f236c398"
+    }
+  },
+  "lib/openzeppelin-contracts": {
+    "tag": {
+      "name": "v3.4.1",
+      "rev": "cec0800c541c809f883a37f2dfb91ec4c90263c5"
+    }
+  },
+  "lib/solidity-lib": {
+    "tag": {
+      "name": "v2.1.0",
+      "rev": "3fcc8ee6d5c7dea3283416cbcee601d89504a243"
+    }
+  },
+  "lib/v3-core": {
+    "tag": {
+      "name": "v1.0.0",
+      "rev": "e3589b192d0be27e100cd0daaf6c97204fdb1899"
+    }
+  },
+  "lib/v3-periphery": {
+    "tag": {
+      "name": "v1.3.0",
+      "rev": "80f26c86c57b8a5e4b913f42844d4c8bd274d058"
+    }
+  }
+}
